@@ -2,6 +2,7 @@
 
 ## Simple Nodejs HTTP Server
 > This is a simple HTTP server built using Node.js core modules. The server listens on port 3000 and responds to different routes with specific messages or data.
+> *Thanks to kodecamp for the opportunity to learn*
 
 ### Installation
 1. Clone this repository to your local machine.
