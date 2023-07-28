@@ -1,4 +1,4 @@
-# NODE-INTERMEDIATE-TASK
+# NODE-INTERMEDIATE-TEST
 
 ## Simple Nodejs HTTP Server
 > This is a simple HTTP server built using Node.js core modules. The server listens on port 3000 and responds to different routes with specific messages or data.
@@ -29,4 +29,4 @@
 The server includes a simple middleware function that logs incoming requests to the console. This middleware is applied to all routes and provides useful request details.
 
 ### Notes
-> - Make sure Node.js is installed on your machine before running the server.
+> *Make sure Node.js is installed on your machine before running the server.*
